@@ -24,6 +24,7 @@ main {
   grid-template-areas:
     "box1 box2"
     "box3 box3";
+  justify-items: stretch;
 }
 
 .box3 {
