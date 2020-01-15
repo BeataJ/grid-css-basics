@@ -18,5 +18,5 @@
 
 main {
   display: grid;
-  grid-template-columns: 300px 300px 50%;
+  grid-template-columns: 1fr 1fr 1fr;
 }
