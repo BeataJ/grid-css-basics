@@ -24,8 +24,9 @@ main {
   grid-template-areas:
     "box1 box2"
     "box3 box3";
-  justify-items: center;
-  align-items: center;
+  /* justify-items: center;
+  align-items: center; */
+}
 
 .box3 {
   /* grid-column-start: 1;
