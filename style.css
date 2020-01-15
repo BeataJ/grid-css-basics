@@ -15,3 +15,7 @@
 .box3 {
   background: lightgreen;
 }
+
+main {
+  display: grid;
+}
